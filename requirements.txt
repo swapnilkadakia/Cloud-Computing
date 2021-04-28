@@ -1,4 +1,4 @@
-Python == 3.6.2
+
 setuptools==45.3.0
 bcrypt==3.1.4
 blinker==1.4
